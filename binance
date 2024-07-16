@@ -1,0 +1,2 @@
+python -m venv trading_bot_env
+trading_bot_env\Scripts\activate
